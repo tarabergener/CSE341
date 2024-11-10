@@ -1,0 +1,9 @@
+GET https://cse341-project1-xweg.onrender.com
+
+###
+
+GET https://cse341-project1-xweg.onrender.com/users
+
+###
+
+GET https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
