@@ -7,3 +7,33 @@ GET https://cse341-project1-xweg.onrender.com/users
 ###
 
 GET https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
+
+###
+
+POST https://cse341-project1-xweg.onrender.com/users HTTP/1.1
+content-type: application/json
+
+{
+    "firstName": "Ellen",
+    "lastName": "Starch",
+    "email": "ellenstarch@gmail.com",
+    "favoriteColor": "Aqua",
+    "birthday": "05/03/1978"
+}
+
+###
+
+PUT https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
+content-type: application/json
+
+{
+    "firstName": "Issac",
+    "lastName": "Bernard",
+    "email": "issacbernard@gmail.com",
+    "favoriteColor": "purple",
+    "birthday": "07/26/1991"
+}
+
+###
+
+DELETE https://cse341-project1-xweg.onrender.com/users
