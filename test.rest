@@ -24,7 +24,7 @@ content-type: application/json
 ###
 
 PUT https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
-content-type: application/json
+content-type: application/json 
 
 {
     "firstName": "Issac",
@@ -36,4 +36,4 @@ content-type: application/json
 
 ###
 
-DELETE https://cse341-project1-xweg.onrender.com/users
+DELETE https://cse341-project1-xweg.onrender.com/users/6739216840fbeb33ccc2d951
