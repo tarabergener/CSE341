@@ -6,7 +6,7 @@ GET https://cse341-project1-xweg.onrender.com/users
 
 ###
 
-GET https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
+GET https://cse341-project1-xweg.onrender.com/users/672fc438645f5d04424097d7
 
 ###
 
@@ -30,7 +30,7 @@ content-type: application/json
     "firstName": "Issac",
     "lastName": "Bernard",
     "email": "issacbernard@gmail.com",
-    "favoriteColor": "purple",
+    "favoriteColor": "Orange",
     "birthday": "07/26/1991"
 }
 
