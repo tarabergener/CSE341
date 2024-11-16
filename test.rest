@@ -36,4 +36,4 @@ content-type: application/json
 
 ### DELETE user
 
-DELETE https://cse341-project1-xweg.onrender.com/users/6739216840fbeb33ccc2d951
+DELETE https://cse341-project1-xweg.onrender.com/users/6734e7536340e92c7f646932
