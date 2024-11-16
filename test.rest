@@ -23,7 +23,7 @@ content-type: application/json
 
 ###
 
-PUT https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6
+PUT https://cse341-project1-xweg.onrender.com/users/672fc333645f5d04424097d6 HTTP/1.1
 content-type: application/json 
 
 {
@@ -34,6 +34,6 @@ content-type: application/json
     "birthday": "07/26/1991"
 }
 
-###
+### DELETE user
 
 DELETE https://cse341-project1-xweg.onrender.com/users/6739216840fbeb33ccc2d951
